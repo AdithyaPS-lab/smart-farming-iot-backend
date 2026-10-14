@@ -1,0 +1,9 @@
+/target/
+*.jar
+*.zip
+*.dat
+*.log
+oracleJdk-*/
+.DS_Store
+.idea/
+*.iml
